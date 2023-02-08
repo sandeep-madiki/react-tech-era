@@ -1,0 +1,22 @@
+.nav-con {
+  height: 13vh;
+  background-color: #f1f5f9;
+  padding-left: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.link {
+  text-decoration: none;
+}
+.website-logo {
+  width: 120px;
+}
+@media (max-width: 676px) {
+  .nav-con {
+    height: 10vh;
+  }
+  .website-logo {
+    width: 100px;
+  }
+}

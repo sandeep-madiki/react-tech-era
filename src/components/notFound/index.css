@@ -1,0 +1,18 @@
+.not-con {
+  height: 86vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-img {
+  width: 30%;
+}
+.not-heading {
+  color: #475569;
+  font-weight: 500;
+}
+.not-des {
+  color: #64748b;
+  font-weight: 500;
+}

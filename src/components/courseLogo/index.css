@@ -1,0 +1,23 @@
+.logo-con {
+  width: 20%;
+  margin-bottom: 38px;
+}
+.logo-img {
+  width: 25%;
+}
+.course-name {
+  color: #475569;
+  font-weight: bold;
+  margin-left: 8px;
+}
+.link-1 {
+  text-decoration: none;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+@media (max-width: 576px) {
+  .logo-con {
+    width: 30%;
+  }
+}
